@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "수직선그리기", "수직선그리기\수직선그리기.csproj", "{0C760275-27E6-463B-A7B4-563DD6BDB725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "키보드조작", "키보드조작\키보드조작.csproj", "{DD15A3A3-16C0-4F74-BE6B-B1BCD12022C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "테트리스", "테트리스\테트리스.csproj", "{EDD08635-009B-4680-806C-10B03B3877A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C760275-27E6-463B-A7B4-563DD6BDB725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C760275-27E6-463B-A7B4-563DD6BDB725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C760275-27E6-463B-A7B4-563DD6BDB725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C760275-27E6-463B-A7B4-563DD6BDB725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD15A3A3-16C0-4F74-BE6B-B1BCD12022C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD15A3A3-16C0-4F74-BE6B-B1BCD12022C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD15A3A3-16C0-4F74-BE6B-B1BCD12022C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD15A3A3-16C0-4F74-BE6B-B1BCD12022C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD08635-009B-4680-806C-10B03B3877A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD08635-009B-4680-806C-10B03B3877A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD08635-009B-4680-806C-10B03B3877A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD08635-009B-4680-806C-10B03B3877A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
